@@ -1,5 +1,7 @@
 # Turborepo Starter Kit: shadcn/ui
-# Turborepo Starter Kit: shadcn/ui
+
+This repository features a monorepo architecture for Next.js, preconfigured with shadcn as of October 14, 2024, including the latest versions of the integrated packages. The web application is a Next.js app that utilizes the app router and follows a src directory structure.
+
 ![Static Badge](https://img.shields.io/badge/shadcn%2Fui-2.1.0-blue?link=https://github.com/shadcn-ui/ui)
 ![Static Badge](https://img.shields.io/badge/Next.js-14.2.15-0070f3?link=https://github.com/vercel/next.js)
 
